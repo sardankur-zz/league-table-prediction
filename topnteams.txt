@@ -1,0 +1,16 @@
+SVM:accuracy:  0.547222222222
+SVM:common in top 5:  4
+SVM:common in top 10:  9
+SVM:common in top 15:  13
+RF:accuracy:  0.741666666667
+RF:common in top 5:  4
+RF:common in top 10:  9
+RF:common in top 15:  14
+LR:accuracy:  0.569444444444
+LR:common in top 5:  4
+LR:common in top 10:  9
+LR:common in top 15:  14
+linearSVC:accuracy:  0.558333333333
+linearSVC:common in top 5:  3
+linearSVC:common in top 10:  9
+linearSVC:common in top 15:  14

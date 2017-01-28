@@ -1,0 +1,49 @@
+Prediction for 15-16
+SVM  0.547222222222
+linearSVC  0.397222222222
+NB  0.480555555556
+LogReg  0.577777777778
+RandomForest  0.725
+
+cross validation check
+RandomForest  0.502631578947
+Logistic Regression  0.528571428571
+SVM   0.523308270677
+
+
+Preditcion for 14-15
+SVM  0.586842105263
+linearSVC  0.452631578947
+NB  0.434210526316
+LogReg  0.597368421053
+RandomForest  0.734210526316
+
+cross validation check
+RandomForest  0.507894736842
+Logistic Regression  0.534210526316
+SVM   0.526754385965
+
+Prediction for 13-14
+SVM  0.631578947368
+linearSVC  0.492105263158
+NB  0.476315789474
+LogReg  0.660526315789
+RandomForest  0.705263157895
+
+cross validation check
+RandomForest  0.494736842105
+Logistic Regression  0.521578947368
+SVM   0.518947368421
+
+Prediction for 12-13
+SVM  0.605263157895
+linearSVC  0.644736842105
+NB  0.515789473684
+LogReg  0.634210526316
+RandomForest  0.707894736842
+
+cross validation check
+RandomForest  0.523684210526
+Logistic Regression  0.538815789474
+SVM   0.534868421053
+
